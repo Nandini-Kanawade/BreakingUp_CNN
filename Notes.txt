@@ -21,3 +21,19 @@ x and the y axis based on the
 
 singular value and the final step the matrix u rotates the 
 standard basis to align with the left singular vectors
+
+
+12 x 9
+
+
+
+9 x 12
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+- - - - - - - - - - - - -
+
