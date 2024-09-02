@@ -1,0 +1,128 @@
+11:41:14 - INFO - Time: *************************************START*************************************
+11:41:14 - INFO - Time: (10, 28, 28)
+11:41:14 - INFO - Time: (10, 28, 28, 1)
+11:41:14 - INFO - Time: (10,)
+11:41:14 - INFO - Time: conv2d filters shape: (3, 3, 1, 2)
+11:41:14 - INFO - Time: conv2d biases_Conv shape: (2,)
+11:41:14 - INFO - Time: max_pooling2d has no weights to display
+11:41:14 - INFO - Time: flatten has no weights to display
+11:41:14 - INFO - Time: dense weights shape: (338, 169)
+11:41:14 - INFO - Time: dense biases_dense shape: (169,)
+11:41:14 - INFO - Time: dense_1 weights shape: (169, 13)
+11:41:14 - INFO - Time: dense_1 biases_dense shape: (13,)
+11:41:14 - INFO - Time: dense_2 weights shape: (13, 1)
+11:41:14 - INFO - Time: dense_2 biases_dense shape: (1,)
+11:41:16 - INFO - Time: Conv Layer 1 Weights:
+11:41:16 - INFO - Time: Mean: -0.046435192227363586
+11:41:16 - INFO - Time: Variance: 0.08649143576622009
+11:41:16 - INFO - Time: Conv Layer 1 Biases:
+11:41:16 - INFO - Time: Mean: 0.0
+11:41:16 - INFO - Time: Variance: 0.0
+11:41:17 - INFO - Time: ------------------------------
+11:41:17 - INFO - Time: Conv Layer 2 Weights:
+11:41:17 - INFO - Time: Mean: 0.00756878312677145
+11:41:17 - INFO - Time: Variance: 0.08285017311573029
+11:41:17 - INFO - Time: Conv Layer 2 Biases:
+11:41:17 - INFO - Time: Mean: 0.0
+11:41:17 - INFO - Time: Variance: 0.0
+11:41:17 - INFO - Time: ------------------------------
+11:41:46 - INFO - Time: conv2d filters shape: (3, 3, 1, 2)
+11:41:46 - INFO - Time: conv2d biases_Conv shape: (2,)
+11:41:46 - INFO - Time: max_pooling2d has no weights to display
+11:41:46 - INFO - Time: flatten has no weights to display
+11:41:46 - INFO - Time: dense weights shape: (338, 169)
+11:41:46 - INFO - Time: dense biases_dense shape: (169,)
+11:41:46 - INFO - Time: dense_1 weights shape: (169, 13)
+11:41:46 - INFO - Time: dense_1 biases_dense shape: (13,)
+11:41:46 - INFO - Time: dense_2 weights shape: (13, 1)
+11:41:46 - INFO - Time: dense_2 biases_dense shape: (1,)
+11:41:47 - INFO - Time: Conv Layer 1 Weights:
+11:41:47 - INFO - Time: Mean: 14.43488597869873
+11:41:47 - INFO - Time: Variance: 0.08132905513048172
+11:41:47 - INFO - Time: Conv Layer 1 Biases:
+11:41:47 - INFO - Time: Mean: 14.503117561340332
+11:41:47 - INFO - Time: Variance: 0.0
+11:41:47 - INFO - Time: ------------------------------
+11:41:47 - INFO - Time: Conv Layer 2 Weights:
+11:41:47 - INFO - Time: Mean: 14.493101119995117
+11:41:47 - INFO - Time: Variance: 0.07671424001455307
+11:41:47 - INFO - Time: Conv Layer 2 Biases:
+11:41:47 - INFO - Time: Mean: 14.508377075195312
+11:41:47 - INFO - Time: Variance: 0.0
+11:41:47 - INFO - Time: ------------------------------
+11:42:22 - INFO - Time: conv2d filters shape: (3, 3, 1, 2)
+11:42:22 - INFO - Time: conv2d biases_Conv shape: (2,)
+11:42:22 - INFO - Time: max_pooling2d has no weights to display
+11:42:22 - INFO - Time: flatten has no weights to display
+11:42:22 - INFO - Time: dense weights shape: (338, 169)
+11:42:22 - INFO - Time: dense biases_dense shape: (169,)
+11:42:22 - INFO - Time: dense_1 weights shape: (169, 13)
+11:42:22 - INFO - Time: dense_1 biases_dense shape: (13,)
+11:42:22 - INFO - Time: dense_2 weights shape: (13, 1)
+11:42:22 - INFO - Time: dense_2 biases_dense shape: (1,)
+11:42:22 - INFO - Time: Conv Layer 1 Weights:
+11:42:22 - INFO - Time: Mean: 14.43488597869873
+11:42:22 - INFO - Time: Variance: 0.08132905513048172
+11:42:22 - INFO - Time: Conv Layer 1 Biases:
+11:42:22 - INFO - Time: Mean: 14.503117561340332
+11:42:22 - INFO - Time: Variance: 0.0
+11:42:22 - INFO - Time: ------------------------------
+11:42:22 - INFO - Time: Conv Layer 2 Weights:
+11:42:22 - INFO - Time: Mean: 14.493101119995117
+11:42:22 - INFO - Time: Variance: 0.07671424001455307
+11:42:22 - INFO - Time: Conv Layer 2 Biases:
+11:42:22 - INFO - Time: Mean: 14.508377075195312
+11:42:22 - INFO - Time: Variance: 0.0
+11:42:22 - INFO - Time: ------------------------------
+11:43:19 - INFO - Time: *************************************START*************************************
+11:43:21 - INFO - Time: (10, 28, 28)
+11:43:21 - INFO - Time: (10, 28, 28, 1)
+11:43:21 - INFO - Time: (10,)
+11:43:30 - INFO - Time: conv2d_1 filters shape: (3, 3, 1, 2)
+11:43:30 - INFO - Time: conv2d_1 biases_Conv shape: (2,)
+11:43:30 - INFO - Time: max_pooling2d_1 has no weights to display
+11:43:30 - INFO - Time: flatten_1 has no weights to display
+11:43:30 - INFO - Time: dense_3 weights shape: (338, 169)
+11:43:30 - INFO - Time: dense_3 biases_dense shape: (169,)
+11:43:30 - INFO - Time: dense_4 weights shape: (169, 13)
+11:43:30 - INFO - Time: dense_4 biases_dense shape: (13,)
+11:43:30 - INFO - Time: dense_5 weights shape: (13, 1)
+11:43:30 - INFO - Time: dense_5 biases_dense shape: (1,)
+11:43:30 - INFO - Time: Conv Layer 1 Weights:
+11:43:30 - INFO - Time: Mean: 0.0008004076080396771
+11:43:30 - INFO - Time: Variance: 0.06639648973941803
+11:43:30 - INFO - Time: Conv Layer 1 Biases:
+11:43:30 - INFO - Time: Mean: 0.0
+11:43:30 - INFO - Time: Variance: 0.0
+11:43:30 - INFO - Time: ------------------------------
+11:43:30 - INFO - Time: Conv Layer 2 Weights:
+11:43:30 - INFO - Time: Mean: -0.012379718944430351
+11:43:30 - INFO - Time: Variance: 0.08566848188638687
+11:43:30 - INFO - Time: Conv Layer 2 Biases:
+11:43:30 - INFO - Time: Mean: 0.0
+11:43:30 - INFO - Time: Variance: 0.0
+11:43:30 - INFO - Time: ------------------------------
+11:45:03 - INFO - Time: conv2d_1 filters shape: (3, 3, 1, 2)
+11:45:03 - INFO - Time: conv2d_1 biases_Conv shape: (2,)
+11:45:03 - INFO - Time: max_pooling2d_1 has no weights to display
+11:45:03 - INFO - Time: flatten_1 has no weights to display
+11:45:03 - INFO - Time: dense_3 weights shape: (338, 169)
+11:45:03 - INFO - Time: dense_3 biases_dense shape: (169,)
+11:45:03 - INFO - Time: dense_4 weights shape: (169, 13)
+11:45:03 - INFO - Time: dense_4 biases_dense shape: (13,)
+11:45:03 - INFO - Time: dense_5 weights shape: (13, 1)
+11:45:03 - INFO - Time: dense_5 biases_dense shape: (1,)
+11:45:04 - INFO - Time: Conv Layer 1 Weights:
+11:45:04 - INFO - Time: Mean: 14.555774688720703
+11:45:04 - INFO - Time: Variance: 0.062092125415802
+11:45:04 - INFO - Time: Conv Layer 1 Biases:
+11:45:04 - INFO - Time: Mean: 14.577728271484375
+11:45:04 - INFO - Time: Variance: 0.0
+11:45:04 - INFO - Time: ------------------------------
+11:45:04 - INFO - Time: Conv Layer 2 Weights:
+11:45:04 - INFO - Time: Mean: 14.546613693237305
+11:45:04 - INFO - Time: Variance: 0.08002015203237534
+11:45:04 - INFO - Time: Conv Layer 2 Biases:
+11:45:04 - INFO - Time: Mean: 14.583211898803711
+11:45:04 - INFO - Time: Variance: 0.0
+11:45:04 - INFO - Time: ------------------------------
