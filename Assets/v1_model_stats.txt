@@ -1,0 +1,108 @@
+
+Before Training:
+Conv Layer 1 Weights:
+Mean: -0.019766446202993393
+Variance: 0.12447754293680191
+Conv Layer 1 Biases:
+Mean: 0.0
+Variance: 0.0
+------------------------------
+------------------------------
+Conv Layer 2 Weights:
+Mean: 0.043794576078653336
+Variance: 0.10257839411497116
+Conv Layer 2 Biases:
+Mean: 0.0
+Variance: 0.0
+------------------------------
+------------------------------
+
+After Training:
+Conv Layer 1 Weights:
+Mean: -0.022591087967157364
+Variance: 0.12387482076883316
+Conv Layer 1 Biases:
+Mean: -0.002818841952830553
+Variance: 0.0
+------------------------------
+------------------------------
+Conv Layer 2 Weights:
+Mean: 0.04363708198070526
+Variance: 0.10215657949447632
+Conv Layer 2 Biases:
+Mean: -0.0018080805893987417
+Variance: 0.0
+------------------------------
+------------------------------
+
+Before Training:
+Conv Layer 1 Weights:
+Mean: 0.10800700634717941
+Variance: 0.06774149090051651
+Conv Layer 1 Biases:
+Mean: 0.0
+Variance: 0.0
+------------------------------
+------------------------------
+Conv Layer 2 Weights:
+Mean: 0.013819270767271519
+Variance: 0.035186659544706345
+Conv Layer 2 Biases:
+Mean: 0.0
+Variance: 0.0
+------------------------------
+------------------------------
+
+After Training:
+Conv Layer 1 Weights:
+Mean: 0.10364755988121033
+Variance: 0.06758703291416168
+Conv Layer 1 Biases:
+Mean: -0.005513222888112068
+Variance: 0.0
+------------------------------
+------------------------------
+Conv Layer 2 Weights:
+Mean: 0.01651453971862793
+Variance: 0.03504346311092377
+Conv Layer 2 Biases:
+Mean: 0.0001836605224525556
+Variance: 0.0
+------------------------------
+------------------------------
+
+Before Training:
+Conv Layer 1 Weights:
+Mean: 0.09548347443342209
+Variance: 0.031862009316682816
+Conv Layer 1 Biases:
+Mean: 0.0
+Variance: 0.0
+------------------------------
+------------------------------
+Conv Layer 2 Weights:
+Mean: 0.12563878297805786
+Variance: 0.06841946393251419
+Conv Layer 2 Biases:
+Mean: 0.0
+Variance: 0.0
+------------------------------
+------------------------------
+
+After Training:
+Conv Layer 1 Weights:
+Mean: 0.09712015837430954
+Variance: 0.03135664761066437
+Conv Layer 1 Biases:
+Mean: -0.0013755066320300102
+Variance: 0.0
+------------------------------
+------------------------------
+Conv Layer 2 Weights:
+Mean: 0.12481693178415298
+Variance: 0.06811542809009552
+Conv Layer 2 Biases:
+Mean: -0.005884325131773949
+Variance: 0.0
+------------------------------
+------------------------------
