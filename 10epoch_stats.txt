@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------
+Before Training:
+
+Kernel 1 Weights:
+Mean: -0.03355276957154274
+Variance: 0.09247901290655136
+Kernel 1 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 2 Weights:
+Mean: 0.1238788366317749
+Variance: 0.10680145025253296
+Kernel 2 Biases:
+Mean: 0.0
+Variance: 0.0
+----------------------------------------------------------------------------------------------------
+After Training:
+
+Kernel 1 Weights:
+Mean: -0.03252002224326134
+Variance: 0.0311981700360775
+Kernel 1 Biases:
+Mean: 0.41790029406547546
+Variance: 0.0
+Kernel 2 Weights:
+Mean: 0.011281128041446209
+Variance: 0.013575180433690548
+Kernel 2 Biases:
+Mean: -0.5092477202415466
+Variance: 0.0
