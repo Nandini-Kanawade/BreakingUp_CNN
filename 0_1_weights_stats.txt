@@ -2,14 +2,14 @@
 Before Training:
 
 Kernel 1 Weights:
-Mean: -0.09944692254066467
-Variance: 0.032346323132514954
+Mean: 0.01020232867449522
+Variance: 0.05942760035395622
 Kernel 1 Biases:
 Mean: 0.0
 Variance: 0.0
 Kernel 2 Weights:
-Mean: 0.16775982081890106
-Variance: 0.049484413117170334
+Mean: 0.00039288733387365937
+Variance: 0.08493169397115707
 Kernel 2 Biases:
 Mean: 0.0
 Variance: 0.0
@@ -17,14 +17,14 @@ Variance: 0.0
 After Training:
 
 Kernel 1 Weights:
-Mean: -0.017993943765759468
-Variance: 0.0014070821925997734
+Mean: 0.014216514304280281
+Variance: 0.05130114406347275
 Kernel 1 Biases:
-Mean: 0.1454872339963913
+Mean: -0.1083553209900856
 Variance: 0.0
 Kernel 2 Weights:
-Mean: 0.002369481837376952
-Variance: 0.00025270742480643094
+Mean: -0.04437485709786415
+Variance: 0.08046343177556992
 Kernel 2 Biases:
-Mean: -0.43240392208099365
+Mean: -0.08114368468523026
 Variance: 0.0

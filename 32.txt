@@ -1,0 +1,195 @@
+----------------------------------------------------------------------------------------------------
+Before Training:
+
+Kernel 1 Weights:
+Mean: -0.0220184326171875
+Variance: 0.006803340278565884
+Kernel 1 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 2 Weights:
+Mean: 0.010930740274488926
+Variance: 0.004818002227693796
+Kernel 2 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 3 Weights:
+Mean: -0.08721804618835449
+Variance: 0.00451476639136672
+Kernel 3 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 4 Weights:
+Mean: 0.009346678853034973
+Variance: 0.005278071388602257
+Kernel 4 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 5 Weights:
+Mean: 0.013127420097589493
+Variance: 0.009221162647008896
+Kernel 5 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 6 Weights:
+Mean: 0.011451325379312038
+Variance: 0.006482806522399187
+Kernel 6 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 7 Weights:
+Mean: -0.03167455643415451
+Variance: 0.005519093945622444
+Kernel 7 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 8 Weights:
+Mean: -0.03990316390991211
+Variance: 0.0027808076702058315
+Kernel 8 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 9 Weights:
+Mean: 0.0015472894301638007
+Variance: 0.00855344533920288
+Kernel 9 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 10 Weights:
+Mean: 0.0074273403733968735
+Variance: 0.004444724880158901
+Kernel 10 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 11 Weights:
+Mean: 0.012144613079726696
+Variance: 0.006386755034327507
+Kernel 11 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 12 Weights:
+Mean: -0.01736869290471077
+Variance: 0.00777942780405283
+Kernel 12 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 13 Weights:
+Mean: -0.04617326334118843
+Variance: 0.004626737907528877
+Kernel 13 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 14 Weights:
+Mean: 0.025393422693014145
+Variance: 0.008148090913891792
+Kernel 14 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 15 Weights:
+Mean: -0.0644274652004242
+Variance: 0.003833862952888012
+Kernel 15 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 16 Weights:
+Mean: -0.011380651034414768
+Variance: 0.0032706009224057198
+Kernel 16 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 17 Weights:
+Mean: 0.018904874101281166
+Variance: 0.004918895196169615
+Kernel 17 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 18 Weights:
+Mean: 0.020161963999271393
+Variance: 0.007440624758601189
+Kernel 18 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 19 Weights:
+Mean: 0.020315011963248253
+Variance: 0.00398296769708395
+Kernel 19 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 20 Weights:
+Mean: 0.020211197435855865
+Variance: 0.008214650675654411
+Kernel 20 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 21 Weights:
+Mean: 0.022240661084651947
+Variance: 0.006256135646253824
+Kernel 21 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 22 Weights:
+Mean: 0.04426624998450279
+Variance: 0.00458670686930418
+Kernel 22 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 23 Weights:
+Mean: -0.0033312663435935974
+Variance: 0.0039483788423240185
+Kernel 23 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 24 Weights:
+Mean: 0.01344794686883688
+Variance: 0.0073332167230546474
+Kernel 24 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 25 Weights:
+Mean: -0.00868723914027214
+Variance: 0.006537274923175573
+Kernel 25 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 26 Weights:
+Mean: 0.014289844781160355
+Variance: 0.0069998460821807384
+Kernel 26 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 27 Weights:
+Mean: -0.04122320935130119
+Variance: 0.0030762748792767525
+Kernel 27 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 28 Weights:
+Mean: -0.008231492713093758
+Variance: 0.0032852301374077797
+Kernel 28 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 29 Weights:
+Mean: 0.01638193614780903
+Variance: 0.006285986863076687
+Kernel 29 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 30 Weights:
+Mean: 0.005588985979557037
+Variance: 0.0017856971826404333
+Kernel 30 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 31 Weights:
+Mean: -0.0163416750729084
+Variance: 0.006087628658860922
+Kernel 31 Biases:
+Mean: 0.0
+Variance: 0.0
+Kernel 32 Weights:
+Mean: 0.019401585683226585
+Variance: 0.0037845494225621223
+Kernel 32 Biases:
+Mean: 0.0
+Variance: 0.0
