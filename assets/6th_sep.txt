@@ -1,0 +1,58 @@
+TRAINING DATA
+5400 - ones/zeros
+5400 - other 
+    [600 * 9 of 1/0 to 9]
+
+
+MODEL DETAILS
+1 3x3 kernel with same weights as initialization {try with 0000 and 1111} => 26x26
+2x2 maxpooling => 13x13
+flatten => 169
+dense => 85
+dense => 42
+dense => 21
+dense => 11
+dense => 5
+dense => 3
+dense => 2
+dense => 1
+
+optimizer='adam',               
+loss='binary_crossentropy',    
+metrics=['accuracy']       
+
+
+
+weight
+make a random 3x3 matrix {see some initailzation processes}
+set the same weight to both the kernels
+
+save the initial weights a subfolder type sectioned .npz files
+
+
+weights = model.layers[0].get_weights()[0]
+bias = model.layers[0].get_weights()[1]
+print(f"Weights:\n{weights}")
+print(f"Bias:\n{bias}")
+    Weights:
+    [[[[-0.3479745 ]]
+
+    [[ 0.16647005]]
+
+    [[-0.3307611 ]]]
+
+
+    [[[ 0.49694788]]
+
+    [[-0.17071041]]
+
+    [[-0.11735728]]]
+
+
+    [[[-0.5538246 ]]
+
+    [[-0.3981794 ]]
+
+    [[ 0.2005223 ]]]]
+    Bias:
+    [0.]
